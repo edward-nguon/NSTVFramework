@@ -4,3 +4,8 @@ framework module NSTVFramework {
   export *
   module * { export * }
 }
+
+module NSTVFramework.Swift {
+  header "NSTVFramework-Swift.h"
+  requires objc
+}

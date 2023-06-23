@@ -1,0 +1,14 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)
+// swift-module-flags: -target arm64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -module-name NSTVFramework
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import Foundation
+@_exported import NSTVFramework
+import Swift
+import _Concurrency
+import _StringProcessing
+@_hasMissingDesignatedInitializers public class NSTV {
+  public static func add(firstNum: Swift.Int, secondNum: Swift.Int) -> Swift.Int
+  public static func substract(firstNum: Swift.Int, secondNum: Swift.Int) -> Swift.Int
+  @objc deinit
+}
