@@ -12,5 +12,7 @@ Pod::Spec.new do |s|
     s.source           = { :git => 'https://github.com/edward-nguon/NSTVFramework.git', :tag => s.version.to_s }
     s.ios.deployment_target = '11.0'
     s.swift_version = '5.0'
+    s.dependency 'Alamofire'
+    s.dependency 'Kingfisher'
     s.ios.vendored_frameworks = 'NSTVFramework.xcframework'
   end
