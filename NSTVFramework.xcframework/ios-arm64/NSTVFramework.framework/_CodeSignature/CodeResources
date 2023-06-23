@@ -4,21 +4,52 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/NSTVFramework-Swift.h</key>
+		<data>
+		BMEe577h4dq9nipWMPzebPMh4No=
+		</data>
 		<key>Headers/NSTVFramework.h</key>
 		<data>
 		wWZFfNQsLHPcbQh41BRJ6ya0vU8=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		m34/TmPCJRfQ0REgtFijfW4fvzE=
+		tvsDisE3Qo3l2v5QXV3kP6IWcXs=
+		</data>
+		<key>Modules/NSTVFramework.swiftmodule/arm64-apple-ios.abi.json</key>
+		<data>
+		k0fQo+zwXKBr0T2XK1X/BF1CvF4=
+		</data>
+		<key>Modules/NSTVFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<data>
+		6cU/SwXv+JcSkIUHSbxTz9+QArg=
+		</data>
+		<key>Modules/NSTVFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<data>
+		iXXQ62AeviHuor2aEan/iL7RPC0=
+		</data>
+		<key>Modules/NSTVFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<data>
+		6cU/SwXv+JcSkIUHSbxTz9+QArg=
+		</data>
+		<key>Modules/NSTVFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<data>
+		pBVM2njqDRja9entOXvBQaiksq4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		9wf11/wpQKROirTXr3UprJzzEGQ=
+		OZO/FS/8nyEOW0R/eq/gA66tM3M=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/NSTVFramework-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UCpIXnS5MhAVLJER2R/tg+hM+onZoObhmW+jasu6dL8=
+			</data>
+		</dict>
 		<key>Headers/NSTVFramework.h</key>
 		<dict>
 			<key>hash2</key>
@@ -26,11 +57,46 @@
 			CMkxfVU8FUaK7ARgiGvm2avpRt6/gWVFtX+GgpCITto=
 			</data>
 		</dict>
+		<key>Modules/NSTVFramework.swiftmodule/arm64-apple-ios.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Nx8O3iZT/3FNhcjNERbeockJb0iU2/r0KUoBsOjlgVo=
+			</data>
+		</dict>
+		<key>Modules/NSTVFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			n7Wlrar4Nsm2v8U6Qu1kRzHuCAO4LjTrEoiQVzBFuxA=
+			</data>
+		</dict>
+		<key>Modules/NSTVFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			B72s5kd5Tq9yuLvx1n4mjYWS/vJRZa8+z6H2yTu1C7s=
+			</data>
+		</dict>
+		<key>Modules/NSTVFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			n7Wlrar4Nsm2v8U6Qu1kRzHuCAO4LjTrEoiQVzBFuxA=
+			</data>
+		</dict>
+		<key>Modules/NSTVFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			28rOcuJ0/V31ZgTaeQGQtbmxdKtZ3kvTWNtZCD5UCTs=
+			</data>
+		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			o4cQK6N6/8Askuuiew4E2kpNpXH24xAiICtP4WOR+WU=
+			+Oi6cp+o0hfwPezw6tt3P+RrQT8DvXmWIF8yjUSmSv0=
 			</data>
 		</dict>
 	</dict>

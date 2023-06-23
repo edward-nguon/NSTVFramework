@@ -1,0 +1,120 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NSTVFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "NSTV",
+        "printedName": "NSTV",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "add",
+            "printedName": "add(firstNum:secondNum:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:13NSTVFramework4NSTVC3add8firstNum06secondE0S2i_SitFZ",
+            "mangledName": "$s13NSTVFramework4NSTVC3add8firstNum06secondE0S2i_SitFZ",
+            "moduleName": "NSTVFramework",
+            "static": true,
+            "declAttributes": [
+              "Final"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "substract",
+            "printedName": "substract(firstNum:secondNum:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:13NSTVFramework4NSTVC9substract8firstNum06secondE0S2i_SitFZ",
+            "mangledName": "$s13NSTVFramework4NSTVC9substract8firstNum06secondE0S2i_SitFZ",
+            "moduleName": "NSTVFramework",
+            "static": true,
+            "declAttributes": [
+              "Final"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "NSTV",
+                "printedName": "NSTVFramework.NSTV",
+                "usr": "s:13NSTVFramework4NSTVC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:13NSTVFramework4NSTVCACycfc",
+            "mangledName": "$s13NSTVFramework4NSTVCACycfc",
+            "moduleName": "NSTVFramework",
+            "implicit": true,
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:13NSTVFramework4NSTVC",
+        "mangledName": "$s13NSTVFramework4NSTVC",
+        "moduleName": "NSTVFramework",
+        "isOpen": true
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}

@@ -4,21 +4,72 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/NSTVFramework-Swift.h</key>
+		<data>
+		h5vbc6TGMexL/D7jsi4ibFDvyys=
+		</data>
 		<key>Headers/NSTVFramework.h</key>
 		<data>
 		wWZFfNQsLHPcbQh41BRJ6ya0vU8=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		hmUI8UQSpqGHJ/2YxEpWUhgc428=
+		PonjJ0cF2VqdYhkMUdZgC4BeQPo=
+		</data>
+		<key>Modules/NSTVFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<data>
+		GDol87slvSfHoSQ/Fmp+M56lzGk=
+		</data>
+		<key>Modules/NSTVFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		2rAg1P/ud8r2cOgwINOdBZLQWzw=
+		</data>
+		<key>Modules/NSTVFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		x4Y4WQkvf1TRlMKJiW9Mzc7pBAM=
+		</data>
+		<key>Modules/NSTVFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		2rAg1P/ud8r2cOgwINOdBZLQWzw=
+		</data>
+		<key>Modules/NSTVFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		sGm1hC+JkWuIZjHuEGasKpeYrcA=
+		</data>
+		<key>Modules/NSTVFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<data>
+		GDol87slvSfHoSQ/Fmp+M56lzGk=
+		</data>
+		<key>Modules/NSTVFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		WBD3sKWg6ZnFnm+tYbUJHhpMPH8=
+		</data>
+		<key>Modules/NSTVFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		/DaflfPwfxlw0Cy0yi/OZXfK4Ok=
+		</data>
+		<key>Modules/NSTVFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		WBD3sKWg6ZnFnm+tYbUJHhpMPH8=
+		</data>
+		<key>Modules/NSTVFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		RCHpeGqVnOqiPAdOybi9mlEFU2c=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		9wf11/wpQKROirTXr3UprJzzEGQ=
+		OZO/FS/8nyEOW0R/eq/gA66tM3M=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/NSTVFramework-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ek5v8o5zgEhz4rlBBgeLtRgc9Z4pF6xUsz/+2jpdNaE=
+			</data>
+		</dict>
 		<key>Headers/NSTVFramework.h</key>
 		<dict>
 			<key>hash2</key>
@@ -26,11 +77,81 @@
 			CMkxfVU8FUaK7ARgiGvm2avpRt6/gWVFtX+GgpCITto=
 			</data>
 		</dict>
+		<key>Modules/NSTVFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			D8i6m1RtsjrobbayzFxTev53rW9krqhJV605iwn9P0M=
+			</data>
+		</dict>
+		<key>Modules/NSTVFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9rXQ/2r9avN30dH9RYVsbviZx6/KrB66CB27HZojV/c=
+			</data>
+		</dict>
+		<key>Modules/NSTVFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			e+Dinp7qR5OBty/cKHl/NZIcP5+lMUoT9EsgBABhQTc=
+			</data>
+		</dict>
+		<key>Modules/NSTVFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9rXQ/2r9avN30dH9RYVsbviZx6/KrB66CB27HZojV/c=
+			</data>
+		</dict>
+		<key>Modules/NSTVFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SlR46gOKAJQcXw5HPU3rpyLYfghiYuDCcBORhRP4u50=
+			</data>
+		</dict>
+		<key>Modules/NSTVFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			D8i6m1RtsjrobbayzFxTev53rW9krqhJV605iwn9P0M=
+			</data>
+		</dict>
+		<key>Modules/NSTVFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			A+oO/NFmFLCAWW4iv7bm8sfvZ/Cq180P7VqRiyxOQ7M=
+			</data>
+		</dict>
+		<key>Modules/NSTVFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			F0sJ3v7HH1d0IchfMNZwqXENh7GbIoXAEJkAeRxiwIY=
+			</data>
+		</dict>
+		<key>Modules/NSTVFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			A+oO/NFmFLCAWW4iv7bm8sfvZ/Cq180P7VqRiyxOQ7M=
+			</data>
+		</dict>
+		<key>Modules/NSTVFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yicemzy0X8BGOLEz3zAgJ20GIN6yE21yObne+qV2pzU=
+			</data>
+		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			o4cQK6N6/8Askuuiew4E2kpNpXH24xAiICtP4WOR+WU=
+			+Oi6cp+o0hfwPezw6tt3P+RrQT8DvXmWIF8yjUSmSv0=
 			</data>
 		</dict>
 	</dict>
