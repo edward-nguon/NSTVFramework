@@ -1,0 +1,6 @@
+framework module NSTVFramework {
+  umbrella header "NSTVFramework.h"
+
+  export *
+  module * { export * }
+}
